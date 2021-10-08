@@ -1,0 +1,97 @@
+header{
+    color: black;
+    text-align: center;
+    border-bottom: solid black;
+    font-size:xx-large;
+
+}
+.trump{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.white {
+    color: white;
+}
+.red{
+    color: red;
+}
+.grey {
+    background-color: #c1beba;
+}
+.center {
+    text-align: center;
+}
+.photo{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border:7px solid black;
+}
+.Born{
+    font-size: xx-large ;
+    color: black;
+}
+.queens{
+    color: blue;
+}
+.political{
+    font-size: xx-large;
+    color: black;
+}
+.small{
+    font-size: small;
+}
+.queens1{
+    color:blue;
+    font-size:large;
+    line-height: initial;
+    text-decoration: none;
+}
+a {
+text-decoration: none;
+}
+img {
+    width: 220px;
+    height: 120px;
+}
+header {
+    border-bottom: solid black;
+}
+.black{
+    font-size: large;
+}
+.by{
+    font-style: italic;
+    color: #141714;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.darkblue{
+    color: #332885
+}
+.grey1{
+    color: grey;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.grey2{
+    color: #39393c;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.by1{
+    color: #6d6d70;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: large;
+}
+.text{
+    font-size: large;
+
+}
+
+
